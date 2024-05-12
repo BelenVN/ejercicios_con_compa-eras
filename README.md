@@ -1,2 +1,2 @@
-# ejercicios_con_compa-eras
-Ejercicios realizados con compañeras
+# ejercicios_en_equipo
+Ejercicios realizados con compañeras del bootcamp de Adalab
